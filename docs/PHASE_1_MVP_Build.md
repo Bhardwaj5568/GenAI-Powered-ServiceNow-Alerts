@@ -7,6 +7,17 @@
 
 This phase serves the same project motive as every other document in this folder: build a GenAI-powered ServiceNow alerting MVP that reduces SLA breaches and MTTA through intelligent WhatsApp and SMS notifications. Phase 1 only narrows that motive to implementation details.
 
+## Related Documents
+
+- `00_Document_Index.md` for the master file list
+- `01_Functional_Requirements.md` for the required behavior
+- `02_Non_Functional_Requirements.md` for performance and reliability goals
+- `03_Technical_Design.md` for architecture and service boundaries
+- `04_Integration_Design_ServiceNow.md` for webhook/event details
+- `05_GenAI_Design_and_Prompting.md` for prompt and fallback logic
+- `09_Test_Strategy_and_Acceptance_Criteria.md` for validation gates
+- `07_Deployment_and_Operations_Runbook.md` for release steps
+
 ---
 
 ## 1. Phase 1 Overview

@@ -6,6 +6,21 @@ This package contains the foundational documents required to design, build, test
 
 All documents in this folder support one motive: build a GenAI-powered ServiceNow alerting MVP that reduces SLA breaches and MTTA by delivering intelligent WhatsApp and SMS notifications for P1/P2 incidents and SLA warnings. Each file narrows that same goal to a specific phase or topic.
 
+## How The Documents Connect
+
+- `01_Functional_Requirements.md` defines the product behavior.
+- `02_Non_Functional_Requirements.md` defines the quality and reliability targets.
+- `03_Technical_Design.md` defines the target architecture.
+- `04_Integration_Design_ServiceNow.md` defines the ServiceNow event contract.
+- `05_GenAI_Design_and_Prompting.md` defines message generation behavior.
+- `06_Security_Compliance_and_Governance.md` defines control boundaries.
+- `07_Deployment_and_Operations_Runbook.md` defines release and support operations.
+- `08_Implementation_Roadmap_MVP_to_Scale.md` defines phase sequencing.
+- `09_Test_Strategy_and_Acceptance_Criteria.md` defines validation gates.
+- `10_Risks_Assumptions_and_Decisions.md` defines risks and approved decisions.
+- `11_Solution_Architecture_Diagram.md` gives the visual summary.
+- `MASTER_DOCUMENTATION_INDEX.md` provides the master dependency map.
+
 ## Document Set
 
 1. `01_Functional_Requirements.md`

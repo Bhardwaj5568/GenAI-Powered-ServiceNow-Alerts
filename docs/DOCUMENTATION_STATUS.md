@@ -7,6 +7,16 @@
 
 Every document in this folder supports one motive: build a GenAI-powered ServiceNow alerting MVP that reduces SLA breaches and MTTA through intelligent WhatsApp and SMS notifications. The individual files only split that motive into planning, build, pilot, scale, and operations.
 
+## Document Map Summary
+
+- Planning and scope: `00_Document_Index.md`, `01_Functional_Requirements.md`, `02_Non_Functional_Requirements.md`, `03_Technical_Design.md`
+- Integration and controls: `04_Integration_Design_ServiceNow.md`, `05_GenAI_Design_and_Prompting.md`, `06_Security_Compliance_and_Governance.md`
+- Delivery and validation: `07_Deployment_and_Operations_Runbook.md`, `09_Test_Strategy_and_Acceptance_Criteria.md`
+- Program flow and risk: `08_Implementation_Roadmap_MVP_to_Scale.md`, `10_Risks_Assumptions_and_Decisions.md`
+- Visual reference: `11_Solution_Architecture_Diagram.md`
+- Phase execution: `PHASE_0_Kickoff_and_Discovery.md` through `PHASE_3_Scale_and_Expansion.md`
+- Operations: `Monitoring_Observability_Strategy.md`
+
 ---
 
 ## 📦 DELIVERABLES SUMMARY

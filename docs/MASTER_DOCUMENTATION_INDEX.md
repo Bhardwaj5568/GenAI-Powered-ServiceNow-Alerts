@@ -9,6 +9,90 @@
 
 Every document in this package serves the same objective: build, pilot, and scale a GenAI-powered ServiceNow alerting MVP for P1/P2 incidents and SLA warnings. Phase documents only change the level of detail, not the project motive.
 
+## Document Dependency Map
+
+Use this map to understand how the documents connect without creating duplicated scope.
+
+```text
+00_Document_Index.md
+   └─ Entry point and file inventory
+
+01_Functional_Requirements.md
+   ├─ Defines what the MVP must do
+   ├─ Feeds Phase 0 scope decisions
+   └─ Feeds Phase 1 implementation details
+
+02_Non_Functional_Requirements.md
+   ├─ Defines performance, security, and availability targets
+   ├─ Feeds Phase 0 architecture approval
+   └─ Feeds Phase 1/2 operational validation
+
+03_Technical_Design.md
+   ├─ Defines the reference architecture
+   ├─ Feeds Phase 1 implementation structure
+   └─ Feeds Monitoring instrumentation planning
+
+04_Integration_Design_ServiceNow.md
+   ├─ Defines the ServiceNow event contract and integration pattern
+   ├─ Feeds Phase 1 webhook and event ingestion work
+   └─ Feeds Phase 2 production validation
+
+05_GenAI_Design_and_Prompting.md
+   ├─ Defines prompt strategy and fallback behavior
+   ├─ Feeds Phase 1 GenAI adapter work
+   └─ Feeds Phase 2 prompt tuning and quality reviews
+
+06_Security_Compliance_and_Governance.md
+   ├─ Defines security and governance controls
+   ├─ Feeds Phase 0 approval and Phase 1 hardening
+   └─ Feeds Phase 2 production readiness
+
+07_Deployment_and_Operations_Runbook.md
+   ├─ Defines deployment and operational procedures
+   ├─ Feeds Phase 1 release steps
+   └─ Feeds Phase 2/3 support readiness
+
+08_Implementation_Roadmap_MVP_to_Scale.md
+   ├─ Defines phase sequence and milestones
+   ├─ Connects Phase 0 through Phase 3
+   └─ Prevents implementation drift
+
+09_Test_Strategy_and_Acceptance_Criteria.md
+   ├─ Defines test coverage and acceptance gates
+   ├─ Feeds Phase 1 verification
+   └─ Feeds Phase 2 go-live approval
+
+10_Risks_Assumptions_and_Decisions.md
+   ├─ Defines decision log and risk register
+   ├─ Feeds Phase 0 approvals
+   └─ Feeds Phase 2/3 change control
+
+11_Solution_Architecture_Diagram.md
+   ├─ Visual summary of the same architecture
+   └─ Supports all phases as a shared reference
+
+PHASE_0_Kickoff_and_Discovery.md
+   ├─ Uses requirements, NFRs, architecture, security, and integration docs
+   └─ Outputs scope, approvals, team, budget, and exit criteria
+
+PHASE_1_MVP_Build.md
+   ├─ Uses Phase 0 outputs plus technical, integration, GenAI, and test docs
+   └─ Outputs a working staging MVP
+
+PHASE_2_Pilot_and_Hardening.md
+   ├─ Uses Phase 1 build output plus ops and monitoring docs
+   └─ Outputs production hardening and pilot evidence
+
+PHASE_3_Scale_and_Expansion.md
+   ├─ Uses Phase 2 pilot learnings plus roadmap and ops docs
+   └─ Outputs enterprise rollout and scale readiness
+
+Monitoring_Observability_Strategy.md
+   ├─ Applies to all phases
+   ├─ Reads from NFRs, Technical Design, and Operations Runbook
+   └─ Feeds dashboards, alerting, and SLO tracking
+```
+
 ---
 
 ## 📋 DOCUMENTATION ROADMAP

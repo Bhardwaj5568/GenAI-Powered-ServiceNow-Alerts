@@ -7,6 +7,14 @@
 
 This document serves the same project motive as every other document in this folder: build a GenAI-powered ServiceNow alerting MVP that reduces SLA breaches and MTTA through intelligent WhatsApp and SMS notifications. This file only narrows that motive to monitoring, observability, alerting, and operations.
 
+## Related Documents
+
+- `02_Non_Functional_Requirements.md` for performance and reliability targets
+- `03_Technical_Design.md` for instrumentation points and service boundaries
+- `07_Deployment_and_Operations_Runbook.md` for runbooks and operating procedures
+- `09_Test_Strategy_and_Acceptance_Criteria.md` for validation gates tied to monitoring
+- `08_Implementation_Roadmap_MVP_to_Scale.md` for phase timing and rollout
+
 ---
 
 ## 1. Monitoring Strategy Overview

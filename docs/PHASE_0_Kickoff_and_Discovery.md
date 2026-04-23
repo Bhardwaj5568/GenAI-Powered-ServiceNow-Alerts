@@ -7,6 +7,16 @@
 
 This phase serves the same project motive as every other document in this folder: build a GenAI-powered ServiceNow alerting MVP that reduces SLA breaches and MTTA through intelligent WhatsApp and SMS notifications. Phase 0 only narrows that motive to discovery, scope, and approval.
 
+## Related Documents
+
+- `00_Document_Index.md` for the full document list
+- `01_Functional_Requirements.md` for MVP behavior
+- `02_Non_Functional_Requirements.md` for quality targets
+- `03_Technical_Design.md` for architecture decisions
+- `04_Integration_Design_ServiceNow.md` for event contract details
+- `06_Security_Compliance_and_Governance.md` for security controls
+- `10_Risks_Assumptions_and_Decisions.md` for approved assumptions and risks
+
 ---
 
 ## 1. Overview and Goals
