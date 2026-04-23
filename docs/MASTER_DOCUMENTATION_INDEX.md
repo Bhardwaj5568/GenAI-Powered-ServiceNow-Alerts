@@ -1,5 +1,5 @@
 # COMPLETE PROJECT DOCUMENTATION INDEX
-## GenAI-Powered ServiceNow Alerts - Full 8-Week Build Guide
+## GenAI-Powered ServiceNow Alerts - Full Build Guide
 
 
 
