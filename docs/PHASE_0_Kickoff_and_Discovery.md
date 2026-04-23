@@ -3,6 +3,10 @@
 **Objective:** Align stakeholders, finalize scope, and establish foundational decisions  
 **Owner:** Solution Architect + Product Owner  
 
+## Project North Star
+
+This phase serves the same project motive as every other document in this folder: build a GenAI-powered ServiceNow alerting MVP that reduces SLA breaches and MTTA through intelligent WhatsApp and SMS notifications. Phase 0 only narrows that motive to discovery, scope, and approval.
+
 ---
 
 ## 1. Overview and Goals

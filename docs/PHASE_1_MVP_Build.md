@@ -3,6 +3,10 @@
 **Objective:** Build fully functional end-to-end alerting system  
 **Owner:** Architecture Lead + Backend Team Lead  
 
+## Project North Star
+
+This phase serves the same project motive as every other document in this folder: build a GenAI-powered ServiceNow alerting MVP that reduces SLA breaches and MTTA through intelligent WhatsApp and SMS notifications. Phase 1 only narrows that motive to implementation details.
+
 ---
 
 ## 1. Phase 1 Overview

@@ -5,6 +5,10 @@
 **Status:** COMPLETE & READY FOR APPROVAL  
 **Total Documentation:** 6 Comprehensive Guides (500+ pages)  
 
+## Project North Star
+
+Every document in this package serves the same objective: build, pilot, and scale a GenAI-powered ServiceNow alerting MVP for P1/P2 incidents and SLA warnings. Phase documents only change the level of detail, not the project motive.
+
 ---
 
 ## 📋 DOCUMENTATION ROADMAP

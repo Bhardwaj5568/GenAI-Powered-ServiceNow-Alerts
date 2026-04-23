@@ -3,6 +3,10 @@
 **Objective:** Deploy to production and harden system through real-world pilot  
 **Owner:** Incident Manager + Operations Lead  
 
+## Project North Star
+
+This phase serves the same project motive as every other document in this folder: build a GenAI-powered ServiceNow alerting MVP that reduces SLA breaches and MTTA through intelligent WhatsApp and SMS notifications. Phase 2 only narrows that motive to production pilot and hardening work.
+
 ---
 
 ## 1. Phase 2 Overview

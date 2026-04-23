@@ -3,6 +3,10 @@
 **Date:** April 23, 2026  
 **Status:** ✅ ALL DOCUMENTATION COMPLETE  
 
+## Project North Star
+
+Every document in this folder supports one motive: build a GenAI-powered ServiceNow alerting MVP that reduces SLA breaches and MTTA through intelligent WhatsApp and SMS notifications. The individual files only split that motive into planning, build, pilot, scale, and operations.
+
 ---
 
 ## 📦 DELIVERABLES SUMMARY

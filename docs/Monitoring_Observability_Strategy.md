@@ -3,6 +3,10 @@
 **Owner:** DevOps Engineer + Architecture Lead  
 **Status:** COMPREHENSIVE REFERENCE DOCUMENT  
 
+## Project North Star
+
+This document serves the same project motive as every other document in this folder: build a GenAI-powered ServiceNow alerting MVP that reduces SLA breaches and MTTA through intelligent WhatsApp and SMS notifications. This file only narrows that motive to monitoring, observability, alerting, and operations.
+
 ---
 
 ## 1. Monitoring Strategy Overview

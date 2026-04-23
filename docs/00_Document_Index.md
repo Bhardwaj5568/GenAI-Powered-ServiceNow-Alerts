@@ -2,6 +2,10 @@
 
 This package contains the foundational documents required to design, build, test, deploy, and operate the MVP for GenAI-powered ServiceNow alerts over WhatsApp and SMS.
 
+## Project North Star
+
+All documents in this folder support one motive: build a GenAI-powered ServiceNow alerting MVP that reduces SLA breaches and MTTA by delivering intelligent WhatsApp and SMS notifications for P1/P2 incidents and SLA warnings. Each file narrows that same goal to a specific phase or topic.
+
 ## Document Set
 
 1. `01_Functional_Requirements.md`
